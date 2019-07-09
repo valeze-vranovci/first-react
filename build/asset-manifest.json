@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valeze1/react-tutorial/static/css/main.c10d2360.chunk.css",
+    "main.js": "/valeze1/react-tutorial/static/js/main.829d2ddf.chunk.js",
+    "main.js.map": "/valeze1/react-tutorial/static/js/main.829d2ddf.chunk.js.map",
+    "runtime~main.js": "/valeze1/react-tutorial/static/js/runtime~main.5b6e9e1c.js",
+    "runtime~main.js.map": "/valeze1/react-tutorial/static/js/runtime~main.5b6e9e1c.js.map",
+    "static/js/2.86a2265c.chunk.js": "/valeze1/react-tutorial/static/js/2.86a2265c.chunk.js",
+    "static/js/2.86a2265c.chunk.js.map": "/valeze1/react-tutorial/static/js/2.86a2265c.chunk.js.map",
+    "index.html": "/valeze1/react-tutorial/index.html",
+    "precache-manifest.64fe9d2a4c926323f0858ff18846038f.js": "/valeze1/react-tutorial/precache-manifest.64fe9d2a4c926323f0858ff18846038f.js",
+    "service-worker.js": "/valeze1/react-tutorial/service-worker.js",
+    "static/css/main.c10d2360.chunk.css.map": "/valeze1/react-tutorial/static/css/main.c10d2360.chunk.css.map"
+  }
+}
